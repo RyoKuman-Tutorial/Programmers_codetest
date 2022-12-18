@@ -15,3 +15,4 @@
 11. [짝수의 합](./11.sum_of_even_numbers/solution.js)
 12. [양꼬치](./12.lamb_skewers/solution.js)
 13. [중복된 숫자 갯수](./13.check_duplicate/solution.js)
+14. [머쓱이보다 키 큰 사람](./14.find_taller/solution.js)
