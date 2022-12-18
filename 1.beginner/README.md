@@ -19,3 +19,4 @@
 15. [배열 뒤집기](./15.reverse_array/solution.js)
 16. [배열 두배 만들기](./16.dobule_array/solution.js)
 17. [피자 나눠 먹기 3](./17.split_pizza_3/solution.js)
+18. [피자 나눠 먹기 1](./18.split_pizza_1/solution.js)
