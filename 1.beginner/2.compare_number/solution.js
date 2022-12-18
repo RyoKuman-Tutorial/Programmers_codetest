@@ -10,7 +10,7 @@ function isValid(...values) {
   // 유효성 검사
   values.forEach((value) => {
     if (0 > value || 10000 < value) {
-      return new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
+      throw new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
     }
   });
 }

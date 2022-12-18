@@ -11,12 +11,12 @@ function isValid(values) {
   // 유효성 검사
 
   if (values.length < 0 || values.length > 100) {
-    return new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
+    throw new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
   }
 
   values.forEach((value) => {
     if (typeof value !== "number" || value < 0 || value > 1000) {
-      return new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
+      throw new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
     }
   });
 }
