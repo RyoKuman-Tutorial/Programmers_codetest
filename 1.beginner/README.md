@@ -11,3 +11,4 @@
 7. [두 수의 합](./7.plus/solution.js)
 8. [각도기](./8.protractor/solution.js)
 9. [두 수의 나눗셈](./9.division/solution.js)
+10. [배열의 평균값](./10.average/solution.js)
