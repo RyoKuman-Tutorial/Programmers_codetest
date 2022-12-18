@@ -9,3 +9,4 @@
 5. [나이 출력](./5.year_of_birth/solution.js)
 6. [두 수의 차](./6.subtract/solution.js)
 7. [두 수의 합](./7.plus/solution.js)
+8. [각도기](./protractor/solution.js)
