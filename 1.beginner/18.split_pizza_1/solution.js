@@ -1,5 +1,5 @@
 // 제한사항 : 1 ≤ n ≤ 100
-// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120816
+// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120814
 
 function solution(n) {
   isValid(n); // 유효성 검사
