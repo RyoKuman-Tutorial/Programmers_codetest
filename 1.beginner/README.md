@@ -13,3 +13,4 @@
 9. [두 수의 나눗셈](./9.division/solution.js)
 10. [배열의 평균값](./10.average/solution.js)
 11. [짝수의 합](./11.sum_of_even_numbers/solution.js)
+12. [양꼬치](./12.lamb_skewers/solution.js)
