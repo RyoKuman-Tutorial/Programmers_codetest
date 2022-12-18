@@ -9,8 +9,8 @@ function solution(age) {
 function isValid(...values) {
   // 유효성 검사
   values.forEach((value) => {
-    if (typeof value === "number" || value < 0 || value > 120) {
-      return new TypeError();
+    if (typeof value !== "number" || value < 0 || value > 120) {
+      return new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
     }
   });
 }
