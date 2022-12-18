@@ -18,3 +18,4 @@
 14. [머쓱이보다 키 큰 사람](./14.find_taller/solution.js)
 15. [배열 뒤집기](./15.reverse_array/solution.js)
 16. [배열 두배 만들기](./16.dobule_array/solution.js)
+17. [피자 나눠 먹기 3](./17.split_pizza_3/solution.js)
