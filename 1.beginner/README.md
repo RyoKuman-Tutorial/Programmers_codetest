@@ -6,3 +6,4 @@
 2. [숫자 비교하기](./2.compare_number/solution.js)
 3. [몫 구하기](./3.get_quotient/solution.js)
 4. [두 수의 곱](./4.product_of_two_numbers/solution.js)
+5. [나이 출력](./5.year_of_birth//solution.js)
