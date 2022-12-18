@@ -5,6 +5,7 @@ function solution(array, n) {
   isValid(array, n); // 유효성 검사
   return array.filter((v) => v === n).length;
   // Array.prototype.filter 의 return 값이 array 인걸 활용한 방법
+  // forEach 는 length 와 index 둘다 활용할 일이 있거나 값에 직접적으로 접근하는것이 아닌 이상 사용을 지양하자
 }
 
 function isValid(array, n) {
