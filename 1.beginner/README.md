@@ -27,3 +27,4 @@
 23. [배열 원소의 길이](./23.check_length_of_elements/solution.js)
 24. [점의 위치 구하기](./24.get_dots_position/solution.js)
 25. [아이스 아메리카노](./25.buy_americano/solution.js)
+26. [배열 자르기](./26.slice_array/solution.js)
