@@ -31,3 +31,5 @@
 27. [짝수와 홀수 갯수](./27.numbers_of_even_odd/solution.js)
 28. [짝수는 싫어요](./28.array_of_odd/solution.js)
 29. [최댓값 만들기 1](./29.get_max_value/solution.js)
+30. [문자 반복 출력하기](./30.make_repeated_string/solution.js)
+31. [중앙값 구하기](./31.get_middle_value/solution.js)
