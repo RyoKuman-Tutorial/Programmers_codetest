@@ -33,3 +33,4 @@
 29. [최댓값 만들기 1](./29.get_max_value/solution.js)
 30. [문자 반복 출력하기](./30.make_repeated_string/solution.js)
 31. [중앙값 구하기](./31.get_middle_value/solution.js)
+32. [문자열 안의 문자열](./32.check_string/solution.js)
