@@ -1,5 +1,5 @@
 // 제한사항 : dot의 길이 = 2 , dot[0]은 x좌표를, dot[1]은 y좌표를 나타냅니다 , -500 ≤ dot의 원소 ≤ 500 , dot의 원소는 0이 아닙니다.
-// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120854
+// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120841
 
 function solution(dot) {
   isValid(dot); // 유효성 검사
