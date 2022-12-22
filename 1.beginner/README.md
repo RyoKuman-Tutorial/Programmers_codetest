@@ -25,3 +25,4 @@
 21. [삼각형의 완성조건](./21.triangle_1/solution.js)
 22. [편지](./22.letter/solution.js)
 23. [배열 원소의 길이](./23.check_length_of_elements/solution.js)
+24. [점의 위치 구하기](./24.get_dots_position/solution.js)
