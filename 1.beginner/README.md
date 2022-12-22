@@ -29,3 +29,4 @@
 25. [아이스 아메리카노](./25.buy_americano/solution.js)
 26. [배열 자르기](./26.slice_array/solution.js)
 27. [짝수와 홀수 갯수](./27.numbers_of_even_odd/solution.js)
+28. [짝수는 싫어요](./28.array_of_odd/solution.js)
