@@ -1,5 +1,5 @@
 // 제한사항 : 1 ≤ array의 길이 ≤ 100 , 0 ≤ array 원소 ≤ 1,000 , array에 중복된 숫자는 없습니다.
-// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120839
+// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120899
 
 function solution(array) {
   validator(array);
