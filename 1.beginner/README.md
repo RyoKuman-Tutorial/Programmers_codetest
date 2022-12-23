@@ -44,3 +44,4 @@
 40. [모음 지우기](./40.delete_vowel/solution.js)
 41. [세균](./41.germ/solution.js)
 42. [직각삼각형 출력하기](./42.right_triangle/solution.js)
+43. [n의 배수 고르기](./43.nth_drainage/solution.js)
