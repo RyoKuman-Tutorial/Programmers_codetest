@@ -38,3 +38,4 @@
 34. [배열의 유사도](./34.similarity_of_array/solution.js)
 35. [제곱수 판별하기](./35.square_number/solution.js)
 36. [자릿수 더하기](./36.sum_every_number/solution.js)
+37. [옷가게 할인 받기](./37.discount/solution.js)
