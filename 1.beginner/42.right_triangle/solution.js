@@ -1,5 +1,5 @@
 // 제한사항 : 1 ≤ n ≤ 10
-// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120910
+// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120823
 
 const readline = require("readline");
 const rl = readline.createInterface({
