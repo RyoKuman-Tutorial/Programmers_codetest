@@ -1,12 +1,12 @@
-function solution(num, k) {
+function solution1(num, k) {
   validator(num, k);
-  const result = num
-    .toString()
-    .split("")
-    .map((e) => Number(e))
-    .reduce((acc, cur, idx) => (cur === k ? [...acc, idx + 1] : acc), []);
-
-  return result.length !== 0 ? Math.min(...result) : -1;
+  return (
+    num
+      .toString()
+      .split("")
+      .map((el) => Number(el))
+      .indexOf(k) + 1 || -1 // indexof , map을 보다 잘 활용
+  );
 }
 
 function validator(num, k) {

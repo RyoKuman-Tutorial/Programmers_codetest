@@ -1,15 +1,15 @@
 // 제한사항 : 0 < num < 1,000,000 , 0 ≤ k < 10 , num에 k가 여러 개 있으면 가장 처음 나타나는 자리를 return 합니다.
 // 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120904
 
-function solution1(num, k) {
+function solution(num, k) {
   validator(num, k);
-  return (
-    num
-      .toString()
-      .split("")
-      .map((el) => Number(el))
-      .indexOf(k) + 1 || -1 // indexof , map을 보다 잘 활용
-  );
+  const result = num
+    .toString()
+    .split("")
+    .map((e) => Number(e))
+    .reduce((acc, cur, idx) => (cur === k ? [...acc, idx + 1] : acc), []);
+
+  return result.length !== 0 ? Math.min(...result) : -1;
 }
 
 function validator(num, k) {
