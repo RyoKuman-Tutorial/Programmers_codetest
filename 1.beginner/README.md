@@ -35,3 +35,4 @@
 31. [중앙값 구하기](./31.get_middle_value/solution.js)
 32. [문자열 안의 문자열](./32.check_string/solution.js)
 33. [순서쌍의 갯수](./33.ordered_pair/solution.js)
+34. [배열의 유사도](./34.similarity_of_array/solution.js)
