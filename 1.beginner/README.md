@@ -45,3 +45,4 @@
 41. [세균](./41.germ/solution.js)
 42. [직각삼각형 출력하기](./42.right_triangle/solution.js)
 43. [n의 배수 고르기](./43.nth_drainage/solution.js)
+44. [대문자와 소문자](./44.lower_upper_case/solution.js)
