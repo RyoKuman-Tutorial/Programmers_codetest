@@ -42,3 +42,4 @@
 38. [숨어있는 숫자의 덧셈 1](./38.sum_of_numbers_from_string_1/solution.js)
 39. [개미 군단](./39.ants/solution.js)
 40. [모음 지우기](./40.delete_vowel/solution.js)
+41. [세균](./41.germ/solution.js)
