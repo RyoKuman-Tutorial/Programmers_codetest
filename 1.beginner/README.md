@@ -51,3 +51,4 @@
 47. [주사위의 갯수](./47.dice/solution.js)
 48. [가위 바위 보](./48.rock_scissor_paper/solution.js)
 49. [가장 큰 수 찾기](./49.get_largest/solution.js)
+50. [약수 구하기](./49.get_factors/solution.js)
