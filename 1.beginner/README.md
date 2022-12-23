@@ -49,3 +49,4 @@
 45. [암호 해독](./45.decryptor/solution.js)
 46. [문자열 정렬핟기 1](./46.sort_string/solution.js)
 47. [주사위의 갯수](./47.dice/solution.js)
+48. [가위 바위 보](./48.rock_scissor_paper/solution.js)
