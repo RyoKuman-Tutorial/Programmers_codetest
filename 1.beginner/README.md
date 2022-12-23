@@ -39,3 +39,5 @@
 35. [제곱수 판별하기](./35.square_number/solution.js)
 36. [자릿수 더하기](./36.sum_every_number/solution.js)
 37. [옷가게 할인 받기](./37.discount/solution.js)
+38. [옷가게 할인 받기](./37.discount/solution.js)
+39. [숨어있는 숫자의 덧셈 1](./38.sum_of_numbers_from_string_1/solution.js)
