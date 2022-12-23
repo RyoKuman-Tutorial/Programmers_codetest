@@ -48,3 +48,4 @@
 44. [대문자와 소문자](./44.lower_upper_case/solution.js)
 45. [암호 해독](./45.decryptor/solution.js)
 46. [문자열 정렬핟기 1](./46.sort_string/solution.js)
+47. [주사위의 갯수](./47.dice/solution.js)
