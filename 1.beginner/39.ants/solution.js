@@ -1,5 +1,5 @@
 // 제한사항 : hp는 자연수입니다 , 0 ≤ hp ≤ 1000
-// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120851
+// 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120837
 
 function solution(hp) {
   isValid(hp); // 유효성 검사
