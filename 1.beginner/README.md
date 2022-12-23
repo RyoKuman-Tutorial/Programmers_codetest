@@ -46,3 +46,4 @@
 42. [직각삼각형 출력하기](./42.right_triangle/solution.js)
 43. [n의 배수 고르기](./43.nth_drainage/solution.js)
 44. [대문자와 소문자](./44.lower_upper_case/solution.js)
+45. [암호 해독](./45.decryptor/solution.js)
