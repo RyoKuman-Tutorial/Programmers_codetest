@@ -53,3 +53,4 @@
 49. [가장 큰 수 찾기](./49.get_largest/solution.js)
 50. [약수 구하기](./49.get_factors/solution.js)
 51. [배열 회전시키기](./51.rotation_array/solution.js)
+52. [외계행성의 나이](./52.age_of_planet/solution.js)
