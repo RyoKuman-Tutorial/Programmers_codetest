@@ -54,3 +54,4 @@
 50. [약수 구하기](./49.get_factors/solution.js)
 51. [배열 회전시키기](./51.rotation_array/solution.js)
 52. [외계행성의 나이](./52.age_of_planet/solution.js)
+53. [피자 나눠 먹기 2](./53.split_pizza_2/solution.js)
