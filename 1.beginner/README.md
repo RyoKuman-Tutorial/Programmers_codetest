@@ -62,3 +62,4 @@
 58. [문자열 정렬하기 2](./58.sort_string_2/solution.js)
 59. [합성수 찾기](./59.find_composition_number/solution.js)
 60. [중복된 문자 제거](./60.delete_duplicated_char/solution.js)
+61. [모스 부호 1](./61.morse_code/solution.js)
