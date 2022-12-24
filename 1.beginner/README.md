@@ -47,7 +47,7 @@
 43. [n의 배수 고르기](./43.nth_drainage/solution.js)
 44. [대문자와 소문자](./44.lower_upper_case/solution.js)
 45. [암호 해독](./45.decryptor/solution.js)
-46. [문자열 정렬핟기 1](./46.sort_string/solution.js)
+46. [문자열 정렬하기 1](./46.sort_string/solution.js)
 47. [주사위의 갯수](./47.dice/solution.js)
 48. [가위 바위 보](./48.rock_scissor_paper/solution.js)
 49. [가장 큰 수 찾기](./49.get_largest/solution.js)
@@ -58,3 +58,5 @@
 54. [최댓값 만들기 2](./54.get_max_value_2/solution.js)---오답
 55. [숫자 찾기](./55.find_number/solution.js)
 56. [인덱스 바꾸기](./56.change_index/solution.js)
+57. [369 게임](./57.369_game/solution.js)
+58. [문자열 정렬하기 2](./58.sort_string_2/solution.js)
