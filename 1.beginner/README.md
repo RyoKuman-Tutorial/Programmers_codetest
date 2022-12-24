@@ -60,3 +60,5 @@
 56. [인덱스 바꾸기](./56.change_index/solution.js)
 57. [369 게임](./57.369_game/solution.js)
 58. [문자열 정렬하기 2](./58.sort_string_2/solution.js)
+59. [합성수 찾기](./59.find_composition_number/solution.js)
+60. [중복된 문자 제거](./60.delete_duplicated_char/solution.js)
