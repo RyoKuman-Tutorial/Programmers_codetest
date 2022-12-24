@@ -55,7 +55,7 @@
 51. [배열 회전시키기](./51.rotation_array/solution.js)
 52. [외계행성의 나이](./52.age_of_planet/solution.js)
 53. [피자 나눠 먹기 2](./53.split_pizza_2/solution.js)
-54. [최댓값 만들기 2](./54.get_max_value_2/solution.js)---오답
+54. [최댓값 만들기 2](./54.get_max_value_2/solution.js)
 55. [숫자 찾기](./55.find_number/solution.js)
 56. [인덱스 바꾸기](./56.change_index/solution.js)
 57. [369 게임](./57.369_game/solution.js)
@@ -63,3 +63,4 @@
 59. [합성수 찾기](./59.find_composition_number/solution.js)
 60. [중복된 문자 제거](./60.delete_duplicated_char/solution.js)
 61. [모스 부호 1](./61.morse_code/solution.js)
+62. [팩토리얼](./62.factorial/solution.js)
