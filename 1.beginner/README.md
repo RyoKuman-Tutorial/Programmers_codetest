@@ -67,3 +67,4 @@
 63. [A 로 B 만들기](./63.make_A_with_B/solution.js)
 64. [2차원으로 만들기](./64.change_arr/solution.js)
 65. [k 찾기](./65.number_of_K/solution.js)
+66. [가까운 수 찾기](./66.get_near_number/solution.js)
