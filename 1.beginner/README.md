@@ -66,3 +66,4 @@
 62. [팩토리얼](./62.factorial/solution.js)
 63. [A 로 B 만들기](./63.make_A_with_B/solution.js)
 64. [2차원으로 만들기](./64.change_arr/solution.js)
+65. [k 찾기](./65.number_of_K/solution.js)
