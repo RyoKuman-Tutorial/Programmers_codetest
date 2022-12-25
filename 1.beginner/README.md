@@ -70,3 +70,4 @@
 66. [가까운 수 찾기](./66.get_near_number/solution.js)
 67. [진료 순서 정하기](./67.order_checker/solution.js)
 68. [한 번만 등장한 문자](./68.unique_char/solution.js)
+69. [7의 갯수](./69.number_of_7/solution.js)
