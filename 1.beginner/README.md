@@ -71,3 +71,4 @@
 67. [진료 순서 정하기](./67.order_checker/solution.js)
 68. [한 번만 등장한 문자](./68.unique_char/solution.js)
 69. [7의 갯수](./69.number_of_7/solution.js)
+70. [이진수 더하기](./70.sum_of_binary/solution.js)
