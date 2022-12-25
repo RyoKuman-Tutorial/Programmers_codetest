@@ -11,7 +11,7 @@ function solution(my_string, letter) {
 
 function isValid(my_string, letter) {
   // 유효성 검사
-  const regex = /[a-zA-Z]/;
+  const regex = /^[a-zA-Z]+$/;
   if (my_string.length < 1 || my_string.length > 100) throw new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
   if (my_string.split("").filter((e) => !regex.test(e)).length !== 0) throw new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
   if (!regex.test(letter) || letter.length !== 1) throw new TypeError(); // 유효성 검사를 통과하지 못할 경우, typeError
