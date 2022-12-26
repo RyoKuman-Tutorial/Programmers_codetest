@@ -73,3 +73,4 @@
 69. [7의 갯수](./69.number_of_7/solution.js)
 70. [이진수 더하기](./70.sum_of_binary/solution.js)
 71. [숨어있는 숫자의 덧셈 2](./71.sum_of_hide_num_2/solution.js)
+72. [공 던지기](./72.throwing_ball/solution.js)
