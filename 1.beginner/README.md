@@ -79,3 +79,4 @@
 75. [소인수 분해](./75.factorization/solution.js)
 76. [문자열 계산하기](./76.calculate_with_string/solution.js)
 77. [구슬을 나누는 경우의 수](./77.divide_balls/solution.js)
+78. [종이 자르기](./78.divide_paper/solution.js)
