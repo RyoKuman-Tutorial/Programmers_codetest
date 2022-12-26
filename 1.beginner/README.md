@@ -75,3 +75,4 @@
 71. [숨어있는 숫자의 덧셈 2](./71.sum_of_hide_num_2/solution.js)
 72. [공 던지기](./72.throwing_ball/solution.js)
 73. [잘라서 배열로 저장하기](./73.slice_string/solution.js)
+74. [영어가 싫어요](./74.eng_to_num/solution.js)
