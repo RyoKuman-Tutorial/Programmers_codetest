@@ -78,3 +78,4 @@
 74. [영어가 싫어요](./74.eng_to_num/solution.js)
 75. [소인수 분해](./75.factorization/solution.js)
 76. [문자열 계산하기](./76.calculate_with_string/solution.js)
+77. [구슬을 나누는 경우의 수](./77.divide_balls/solution.js)
