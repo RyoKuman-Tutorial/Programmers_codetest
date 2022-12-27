@@ -82,3 +82,5 @@
 78. [종이 자르기](./78.divide_paper/solution.js)
 79. [외계어 사전](./79.alien_dict/solution.js)
 80. [캐릭터의 좌표](./80.get_position/solution.js)
+81. [컨트롤 Z](./81.cmd_z/solution.js)
+82. [삼각형의 완성조건 2](./82.triangle_2/README.md)
