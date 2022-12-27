@@ -81,3 +81,4 @@
 77. [구슬을 나누는 경우의 수](./77.divide_balls/solution.js)
 78. [종이 자르기](./78.divide_paper/solution.js)
 79. [외계어 사전](./79.alien_dict/solution.js)
+80. [캐릭터의 좌표](./80.get_position/solution.js)
