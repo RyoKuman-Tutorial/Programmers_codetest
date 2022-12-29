@@ -86,3 +86,4 @@
 82. [삼각형의 완성조건 2](./82.triangle_2/README.md)
 83. [로그인 성공?](./83.is_logined/solution.js)
 84. [직사각형 넓이 구하기](./84.get_size_of_rec/solution.js)
+85. [문자열 밀기](./85.push_string/solution.js)
