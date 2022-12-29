@@ -84,4 +84,5 @@
 80. [캐릭터의 좌표](./80.get_position/solution.js)
 81. [컨트롤 Z](./81.cmd_z/solution.js)
 82. [삼각형의 완성조건 2](./82.triangle_2/README.md)
-83. [로그인 성공?](./83.is_logined/README.md)
+83. [로그인 성공?](./83.is_logined/solution.js)
+84. [직사각형 넓이 구하기](./84.get_size_of_rec/solution.js)
