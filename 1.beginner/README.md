@@ -87,3 +87,4 @@
 83. [로그인 성공?](./83.is_logined/solution.js)
 84. [직사각형 넓이 구하기](./84.get_size_of_rec/solution.js)
 85. [문자열 밀기](./85.push_string/solution.js)
+86. [유한소수 판별하기](./86.finite_decimal/solution.js)
