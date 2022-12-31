@@ -91,3 +91,5 @@
 87. [치킨 쿠폰](./87.chicken_coupon/solution.js)
 88. [등수 매기기](./88.get_ranking/solution.js)
 89. [특이한 정렬](./89.lineup/solution.js)
+90. [저주의 숫자 3](./90.avoid3/solution.js)
+91. [최빈값 구하기](./91.get_mode/solution.js)
