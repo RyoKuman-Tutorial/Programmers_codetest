@@ -1,4 +1,4 @@
-// 문제링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120812
+// 문제링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120863
 
 function solution(polynomial) {
   const obj = { x: 0, number: 0 };
