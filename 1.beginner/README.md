@@ -89,3 +89,4 @@
 85. [문자열 밀기](./85.push_string/solution.js)
 86. [유한소수 판별하기](./86.finite_decimal/solution.js)
 87. [치킨 쿠폰](./87.chicken_coupon/solution.js)
+88. [등수 매기기](./88.get_ranking/solution.js)
