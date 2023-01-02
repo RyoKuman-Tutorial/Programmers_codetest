@@ -101,3 +101,4 @@
 97. [안전지대](./97.bomb_game/solution.js)
 98. [겹치는 선분의 길이](./98.length_of_line/solution.js)
 99. [평행](./99.is_parallel/solution.js)
+100. [옹알이](./100.babbling_1/solution.js)
