@@ -94,3 +94,4 @@
 90. [저주의 숫자 3](./90.avoid3/solution.js)
 91. [최빈값 구하기](./91.get_mode/solution.js)
 92. [다항식 더하기](./92.combine_polynomial/solution.js)
+93. [OX 퀴즈](./93.OX/solution.js)
