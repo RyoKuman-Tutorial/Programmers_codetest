@@ -96,3 +96,4 @@
 92. [다항식 더하기](./92.combine_polynomial/solution.js)
 93. [OX 퀴즈](./93.OX/solution.js)
 94. [다음에 올 숫자](./94.next_number/solution.js)
+95. [분수의 덧셈](./95.sum_of_fraction/solution.js)
