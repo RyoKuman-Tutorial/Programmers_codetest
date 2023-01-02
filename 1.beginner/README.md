@@ -98,3 +98,4 @@
 94. [다음에 올 숫자](./94.next_number/solution.js)
 95. [분수의 덧셈](./95.sum_of_fraction/solution.js)
 96. [연속된 수의 합](./96.sum_consecutive_num/solution.js)
+97. [안전지대](./97.bomb_game/solution.js)
