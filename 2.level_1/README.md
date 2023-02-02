@@ -8,3 +8,4 @@
 4. [명예의 전당 1](./4.hall_of_fame_1/solution.js)
 5. [기사단원의 무기](./5.weapons/solution.js)
 6. [과일 장수](./6.selling_apples/solution.js)
+7. [푸드 파이트 대회](./7.food_fight/solution.js)
