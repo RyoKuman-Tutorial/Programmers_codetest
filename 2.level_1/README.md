@@ -6,3 +6,4 @@
 2. [가장 가까운 같은 글자](./2.near_num/solution.js)
 3. [문자열 나누기](./3.slice_string/solution.js)
 4. [명예의 전당 1](./4.hall_of_fame_1/solution.js)
+5. [기사단원의 무기](./5.weapons/solution.js)
