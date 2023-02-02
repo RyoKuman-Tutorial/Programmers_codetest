@@ -4,3 +4,4 @@
 
 1. [크기가 작은 부분문자열](./1.split_str/solution.js)
 2. [가장 가까운 같은 글자](./2.near_num/solution.js)
+3. [문자열 나누기](./3.slice_string/solution.js)
