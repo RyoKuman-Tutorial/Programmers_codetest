@@ -10,3 +10,4 @@
 6. [과일 장수](./6.selling_apples/solution.js)
 7. [푸드 파이트 대회](./7.food_fight/solution.js)
 8. [햄버거 만들기](./8.hamburger/solution.js)
+9. [옹알이 2](./9.babbling_2/solution.js)
