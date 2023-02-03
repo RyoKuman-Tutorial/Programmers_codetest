@@ -13,3 +13,4 @@
 9. [옹알이 2](./9.babbling_2/solution.js)
 10. [콜라 문제](./10.coke/README.md)
 11. [삼총사](./11.trio/solution.js)
+12. [숫자 짝꿍](./12.pair/solution.js)
