@@ -14,3 +14,5 @@
 10. [콜라 문제](./10.coke/README.md)
 11. [삼총사](./11.trio/solution.js)
 12. [숫자 짝꿍](./12.pair/solution.js)
+13. [성격 유형 검사하기 ( 오답 )](./13.mbti/solution.js)
+14. [성격 유형 검사하기 ( 오답 )](./13.mbti/solution.js)
