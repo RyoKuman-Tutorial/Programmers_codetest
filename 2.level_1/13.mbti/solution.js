@@ -6,7 +6,7 @@ function solution(survey, choices) {
 
   const scores = { RT: 0, TR: 0, CF: 0, FC: 0, JM: 0, MJ: 0, NA: 0, AN: 0 };
 
-  for (let i = 0; i < survey.length; i++) scores[survey[i]] = choices[i] - 4;
+  survey.forEach((v, i) => (scores[v] += choices[i] - 4));
 
   let result = "";
   result += scores.RT - scores.TR <= 0 ? "R" : "T";
