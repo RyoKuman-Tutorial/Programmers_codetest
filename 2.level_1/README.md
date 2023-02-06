@@ -18,3 +18,4 @@
 14. [신고 결과 받기](./13.mbti/solution.js)
 15. [나머지가 1인 숫자 찾기](./15.find_num/solution.js)
 16. [최소직사각형](./16.rectangular/solution.js)
+17. [없는 숫자 더하기](./17.plus_no_num/solution.js)
