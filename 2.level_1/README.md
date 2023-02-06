@@ -21,3 +21,8 @@
 17. [없는 숫자 더하기](./17.plus_no_num/solution.js)
 18. [부족한 금액 더하기](./18.count_price/solution.js)
 19. [둘만의 암호](./19.password/solution.js)
+20. [개인정보 수집 유효기간](./20.check_period/solution.js)
+21. [숫자 문자열과 영단어](./21.numStr_word/solution.js)
+22. [약수의 개수와 덧셈](./22.plus_num_of_factors/solution.js)
+23. [로또의 최고 순위와 최저 순위](./23.lottery/solution.js)
+24. [음양 더하기](./24.plus_yin_yang/solution.js)
