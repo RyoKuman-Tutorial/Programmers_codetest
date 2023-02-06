@@ -15,4 +15,4 @@
 11. [삼총사](./11.trio/solution.js)
 12. [숫자 짝꿍](./12.pair/solution.js)
 13. [성격 유형 검사하기 ( 오답 )](./13.mbti/solution.js)
-14. [성격 유형 검사하기 ( 오답 )](./13.mbti/solution.js)
+14. [신고 결과 받기](./13.mbti/solution.js)
