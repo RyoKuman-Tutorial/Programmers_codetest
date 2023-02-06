@@ -16,3 +16,4 @@
 12. [숫자 짝꿍](./12.pair/solution.js)
 13. [성격 유형 검사하기 ( 오답 )](./13.mbti/solution.js)
 14. [신고 결과 받기](./13.mbti/solution.js)
+15. [나머지가 1인 숫자 찾기](./15.find_num/solution.js)
