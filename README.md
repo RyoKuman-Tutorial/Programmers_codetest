@@ -7,3 +7,4 @@
 
 0. [필수 알고리즘](./0.algorithms/README.md)
 1. [코딩테스트 입문](./1.beginner/README.md)
+2. [레벨 1](./2.level_1/README.md)
