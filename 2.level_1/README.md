@@ -30,3 +30,4 @@
 26. [내적](./26.dot_product/solution.js)
 27. [3진법 뒤집기](./27.reverse_ternary_sys/solution.js)
 28. [두 개 뽑아서 더하기](./28.plus_two_num/solution.js)
+29. [키패드 누르기](./29.keypad/solution.js) <!-- 24m -->
