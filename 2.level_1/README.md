@@ -28,3 +28,4 @@
 24. [음양 더하기](./24.plus_yin_yang/solution.js)
 25. [신규 아이디 추천](./25.recommand_new_id/solution.js)
 26. [내적](./26.dot_product/solution.js)
+27. [3진법 뒤집기](./27.reverse_ternary_sys/solution.js)
