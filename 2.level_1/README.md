@@ -32,3 +32,4 @@
 28. [두 개 뽑아서 더하기](./28.plus_two_num/solution.js)
 29. [키패드 누르기](./29.keypad/solution.js) <!-- 24m -->
 30. [크레인 인형뽑기 게임](./30.crane/solution.js) <!-- 24m -->
+31. [실패율](./31.fail_rate/solution.js) <!-- 30m -->
