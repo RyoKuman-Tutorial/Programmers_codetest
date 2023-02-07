@@ -26,3 +26,4 @@
 22. [약수의 개수와 덧셈](./22.plus_num_of_factors/solution.js)
 23. [로또의 최고 순위와 최저 순위](./23.lottery/solution.js)
 24. [음양 더하기](./24.plus_yin_yang/solution.js)
+25. [신규 아이디 추천](./25.recommand_new_id/solution.js)
